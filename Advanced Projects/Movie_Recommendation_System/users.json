@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": 1,
+        "user_name": "Haad",
+        "watched_movies": [
+            1
+        ],
+        "ratings": {
+            "1": 9
+        }
+    },
+    {
+        "user_id": 2,
+        "user_name": "Ali",
+        "watched_movies": [
+            1,
+            2,
+            4
+        ],
+        "ratings": {
+            "1": 8.5,
+            "2": 9.0,
+            "4": 8.6
+        }
+    }
+]
