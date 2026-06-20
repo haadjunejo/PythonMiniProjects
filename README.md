@@ -71,7 +71,7 @@ Perfect for advanced learners!
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/PythonMiniProjects.git
+git clone https://github.com/haadjunejo/PythonMiniProjects.git
 cd PythonMiniProjects
 ```
 
